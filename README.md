@@ -1,10 +1,10 @@
-# React.js Level Two Microchallenge
+# React.js Level Two Coding Quest
 
-## What is a micro-challenge?
+## What is a Coding Quest?
 
-- A micro-challenge is a small task or project designed to be completed within a specific time frame. It promotes learning through hands-on coding experience. This micro-challenge's purpose is to help you practice React by working out some problems in this existing app.
+- A Coding Quest is a small task or project designed to be completed within a specific time frame. It promotes learning through hands-on coding experience. This Coding Quest's purpose is to help you practice React by working out some problems in this existing app.
 
-## Difficulty = ★☆☆
+## Difficulty = ★★☆
 
 ## What you will build:
 
@@ -45,8 +45,8 @@ npm run dev
 
 ## How do I know when my app works?
 
-The final app should behave like this:  **[Demo Video](https://drive.google.com/file/d/1JfWs0qyDIiV0wrZDZTUB6yqWc2GmsIFw/view?usp=sharing)**
+The final app should behave like this: **[Demo Video](https://drive.google.com/file/d/1JfWs0qyDIiV0wrZDZTUB6yqWc2GmsIFw/view?usp=sharing)**
 
 ## 🛟 Need Help?
 
-Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a micro-challenge.
+Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a Coding Quest.
