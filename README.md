@@ -1,8 +1,7 @@
-# React.js Level Two Coding Quest
+# React.js Level Two Side Quest
 
-## What is a Coding Quest?
-
-- A Coding Quest is a small task or project designed to be completed within a specific time frame. It promotes learning through hands-on coding experience. This Coding Quest's purpose is to help you practice React by working out some problems in this existing app.
+## What is a side quest?
+- A side quest is a small task or project designed to be completed within a specific time frame. It promotes learning through hands-on coding experience. This side quest's purpose is to help you practice data preparation and visualization using Python and the **Iris dataset**. If you aren’t familiar with these concepts, our Level One walkthrough is a great place to start.
 
 ## Difficulty = ★★☆
 
@@ -49,4 +48,8 @@ The final app should behave like this: **[Demo Video](https://drive.google.com/f
 
 ## 🛟 Need Help?
 
-Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a Coding Quest.
+Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a Code Quest.
+
+
+## 👥 Credit
+This Side Quest was created by Owen Mariani with support from the Spark! Learning Team.
